@@ -1,0 +1,20 @@
+{
+  "name": "gulp_jekyll",
+  "version": "1.0.0",
+  "description": "Contains all nodes_models used for jekyll projects (by schrammIT)",
+  "main": "gulpfile.js",
+  "dependencies": {
+    "critical": "^0.7.2",
+    "browser-sync": "^1.9.2",
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^1.0.0",
+    "gulp-htmltidy": "^0.2.2",
+    "gulp-sass": "^2.3.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
