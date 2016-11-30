@@ -4,7 +4,7 @@
 * based on: [HugoGiraudel / jekyll-boilerplate](https://github.com/HugoGiraudel/jekyll-boilerplate)
 
 ## Setup/Run
-* clone: `git clone https://schrammit@bitbucket.org/schrammit/jekyll-boilerplate.git myNewProject`
+* clone: `git clone https://github.com/schrammIT/jekyll-boilerplate-github.git myNewProject`
 * change directory: `cd myNewProject`
 * open in atom: `atom .` (opens folder)
 * run: `bundle exec jekyll serve`
